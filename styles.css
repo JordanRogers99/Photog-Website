@@ -1,7 +1,43 @@
+body {
+    background-color: white;
+}
+
 .title {
+    border-style: solid;
     text-align: center;
 }
 
 .div-one {
     text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.links {
+    background-color: rgb(252, 226, 226);
+    text-align: center;
+    border-style: solid;
+    padding: 10px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#contact {
+    padding: 10px;
+    border-style: solid;
+}
+
+#about {
+    padding: 10px;
+    border-style: solid;
+}
+
+#friendssites {
+    padding: 10px;
+    border-style: solid;
+}
+
+#socials {
+    padding: 10px;
+    border-style: solid;
 }
