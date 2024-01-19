@@ -1,5 +1,6 @@
 body {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
+
 }
 
 .title {
@@ -43,16 +44,16 @@ body {
 }
 
 .container {
-    width: 500px;
-  height: 550px;
+    width: 1000px;
+  height: auto;
   object-fit: contain;
-  border: 1px solid white;
+  border: 3px solid rgb(0, 0, 0);
 }
 
-.image3 {
-    width: 500px;
-  height: 550px;
-  object-fit: contain;
-  border: 1px solid white;
-  padding: -500px;
+.para1 {
+    text-align: center;
+}
+
+.image1 {
+    text-align: center;
 }
