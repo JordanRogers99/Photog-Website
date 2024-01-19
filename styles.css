@@ -92,6 +92,49 @@ body {
 
 /*SOCIAL MEDIA PAGE*/
 
-#socialstitle {
+.title-one {
     text-align: center;
 }
+
+.opening {
+    text-align: center;
+    border-style: solid;
+    padding: 10px;
+}
+
+.social-links {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-style: solid;
+    padding: 10px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+        .insta {
+        color: white;
+        background-color: transparent;
+        text-decoration: none;
+        padding: 5px;
+        border-style: solid;
+        margin: 3px;
+        }
+
+        .site {
+        color: white;
+        background-color: transparent;
+        text-decoration: none;
+        padding: 5px;
+        border-style: solid;
+        margin: 3px;
+        }
+
+        .facebook {
+        color: white;
+        background-color: transparent;
+        text-decoration: none;
+        padding: 5px;
+        border-style: solid;
+        margin: 3px;
+        }
