@@ -1,16 +1,17 @@
+/*INDEX PAGE*/
 body {
-    background-image: url( ./images/img1.jpg);
+    background-color: rgb(255, 255, 255);
 
 }
 
 .title {
     border-style: solid;
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .div-one {
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-family:'Times New Roman', Times, serif;
     font-weight: bold;
@@ -86,3 +87,7 @@ body {
 .image1 {
     text-align: center;
 }
+
+
+
+/*SOCIAL MEDIA PAGE*/
