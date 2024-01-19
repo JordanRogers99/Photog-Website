@@ -1,6 +1,8 @@
 /*INDEX PAGE*/
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(248, 240, 227, 0.993);
+    font-family: Arial, Helvetica, sans-serif;
+    
 
 }
 
@@ -8,12 +10,13 @@ body {
     border-style: solid;
     text-align: center;
     color: rgb(0, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .div-one {
     color: rgb(0, 0, 0);
     text-align: center;
-    font-family:'Times New Roman', Times, serif;
+    font-family:Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
 
@@ -26,13 +29,24 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
+#Home {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    padding: 5px;
+    border-style: solid;
+    margin: 0px;
+    display: inline;
+}
+
 #contact {
     color: white;
     background-color: transparent;
     text-decoration: none;
     padding: 5px;
     border-style: solid;
-    margin: 3px;
+    margin: 0px;
+    display: inline;
 }
 
 #about {
@@ -41,7 +55,8 @@ body {
     text-decoration: none;
     padding: 5px;
     border-style: solid;
-    margin: 3px;
+    margin: 0px;
+    display: inline;
 }
 
 #friendssites {
@@ -50,7 +65,8 @@ body {
     text-decoration: none;
     padding: 5px;
     border-style: solid;
-    margin: 3px;
+    margin: 0px;
+    display: inline;
 }
 
 #socials {
@@ -59,7 +75,8 @@ body {
     text-decoration: none;
     padding: 5px;
     border-style: solid;
-    margin: 3px;
+    margin: 0px;
+    display: inline;
 }
 
 #portfolio {
@@ -68,8 +85,9 @@ body {
     text-decoration: none;
     padding: 5px;
     border-style: solid;
-    margin: 3px;
-    
+    margin: 0px;
+    display: inline;
+    margin-left: 5px;
 }
 
 .container {
