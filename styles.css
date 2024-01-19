@@ -111,30 +111,36 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
         #insta {
+        float:auto;
         color: white;
         background-color: transparent;
         text-decoration: none;
         padding: 5px;
         border-style: solid;
-        margin: 3px;
+        display:block;
+        margin: 10px;
         }
 
         #site {
+        margin: auto;
         color: white;
         background-color: transparent;
         text-decoration: none;
         padding: 5px;
         border-style: solid;
-        margin: 3px;
+        display: block;
+        margin: 10px;
         }
 
         #facebook {
+        margin: auto;
         color: white;
         background-color: transparent;
         text-decoration: none;
         padding: 5px;
         border-style: solid;
-        margin: 3px;
+        display: block;
+        margin: 10px;
         }
 
         .socials-para2 {
