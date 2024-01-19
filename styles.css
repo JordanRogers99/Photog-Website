@@ -41,3 +41,18 @@ body {
     padding: 10px;
     border-style: solid;
 }
+
+.container {
+    width: 500px;
+  height: 550px;
+  object-fit: contain;
+  border: 1px solid white;
+}
+
+.image3 {
+    width: 500px;
+  height: 550px;
+  object-fit: contain;
+  border: 1px solid white;
+  padding: -500px;
+}
