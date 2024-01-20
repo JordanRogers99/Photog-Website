@@ -26,10 +26,21 @@ body {
     border-style: solid;
     padding: 10px;
     font-weight: bold;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#contact {
+.Home {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    padding: 5px;
+    border-style: solid;
+    margin: 0px;
+    display: inline;
+
+}
+
+.contact {
     color: white;
     background-color: transparent;
     text-decoration: none;
@@ -39,7 +50,7 @@ body {
     display: inline;
 }
 
-#about {
+.about {
     color: white;
     background-color: transparent;
     text-decoration: none;
@@ -49,7 +60,7 @@ body {
     display: inline;
 }
 
-#friendssites {
+.friendssites {
     color: white;
     background-color: transparent;
     text-decoration: none;
@@ -59,7 +70,7 @@ body {
     display: inline;
 }
 
-#socials {
+.socials {
     color: white;
     background-color: transparent;
     text-decoration: none;
@@ -69,7 +80,7 @@ body {
     display: inline;
 }
 
-#portfolio {
+.portfolio {
     color: white;
     background-color: transparent;
     text-decoration: none;
