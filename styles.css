@@ -26,6 +26,17 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
+#Home {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    padding: 5px;
+    border-style: solid;
+    margin: 0px;
+    display: inline;
+}
+
+
 #contact {
     color: white;
     background-color: transparent;
