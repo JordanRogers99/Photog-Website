@@ -15,7 +15,7 @@ body {
 
 .flex-container div {
     background: rgba(255, 255, 255, 0.993);
-    border: 4px solid rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
     height: 50px;
     flex: 1 1 0%;
     }
