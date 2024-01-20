@@ -13,6 +13,31 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.flex-container div {
+    background: rgba(255, 255, 255, 0.993);
+    border: 4px solid rgb(0, 0, 0);
+    height: 50px;
+    flex: 1 1 0%;
+    }
+
+        .flex-container .one {
+            flex: 1 1 0%;
+            text-align: center;
+            margin: 10px;
+         }
+
+         .flex-container .two {
+            flex: 1 1 0%;
+            text-align: center;
+            margin: 10px;
+         }
+
+         .flex-container .three {
+            flex: 1 1 0%;
+            text-align: center;
+            margin: 10px;
+         }
+
 .div-one {
     color: rgb(0, 0, 0);
     text-align: center;
