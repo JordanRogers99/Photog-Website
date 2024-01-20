@@ -25,8 +25,7 @@ body {
             flex: 1 1 0%;
             text-align: center;
             margin: 10px;
-            padding: 2px;
-        
+            padding-top: 29px;
          }
 
          .flex-container .two {
@@ -41,7 +40,7 @@ body {
             flex: 1 1 0%;
             text-align: center;
             margin: 10px;
-            padding: 2px;
+            padding-top: 29px;
          }
 
 .div-one {
