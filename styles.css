@@ -13,35 +13,26 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.flex-container div {
-    background: rgba(255, 255, 255, 0.993);
-    border: 3px solid rgb(0, 0, 0);
-    height: 50px;
-    flex: 1 1 0%;
-    font-family:Arial, Helvetica, sans-serif;
-    }
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-weight: bold;
+}
 
-        .flex-container .one {
-            flex: 1 1 0%;
-            text-align: center;
-            margin: 10px;
-            padding-top: 29px;
-         }
+.one {
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    padding: 15px;
+    background-color: white;
+}
 
-         .flex-container .two {
-            flex: 1 1 0%;
-            text-align: center;
-            margin: 10px;
-            padding-bottom: 45px;
-            padding-top: 10px;
-         }
-
-         .flex-container .three {
-            flex: 1 1 0%;
-            text-align: center;
-            margin: 10px;
-            padding-top: 29px;
-         }
+.two {
+    color: black;
+    border-style: solid;
+    padding: 15px;
+    background-color: white;
+}
 
 .div-one {
     color: rgb(0, 0, 0);
