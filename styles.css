@@ -2,8 +2,13 @@
 body {
     background-color: rgba(248, 240, 227, 0.993);
     font-family: Arial, Helvetica, sans-serif;
-    
-
+    border-style: solid;
+    border-color: white;
+    border-width: 30px;
+    border-radius: 50px;
+    color:#008000;
+    margin:0;
+    padding:10px;
 }
 
 .title {
@@ -24,6 +29,7 @@ body {
     border-style: solid;
     border-radius: 100px;
     padding: 10px;
+    background-image: url( ./images/img2.jpg);
 }
 
 .one {
